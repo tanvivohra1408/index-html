@@ -1,0 +1,6 @@
+your-birthday-project/
+├── index.html          ← IMPORTANT: Rename your HTML file to exactly "index.html"
+└── photos/            ← The folder with all your pictures
+    ├── photo1.jpg
+    ├── photo2.jpg
+    └── ... (your other photos)
